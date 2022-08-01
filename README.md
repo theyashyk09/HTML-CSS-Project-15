@@ -1,8 +1,12 @@
 
 # HTML & CSS PROJECT 15 ![img](https://img.shields.io/badge/PROJECT%2015-HTML%20%26%20CSS-orange)
 
-This one is a product design landing page which created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
+This one is a product design landing page which is created using HTML & CSS. This website is currently not responsive but in coming weeks it will be responsive.
 ## Video
+
+
+
+https://user-images.githubusercontent.com/109405477/182116769-3134edf4-3f8e-4480-8b26-7a87e6cdacf0.mp4
 
 
 ## Deployed Link
